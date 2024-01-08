@@ -1,4 +1,4 @@
-Uber Data Analysis
+<b>Uber Data Analysis</b>
 Overview
 This dataset focuses on Uber rides and has been thoroughly explored and analyzed to gain insights into ride patterns and user behavior. The analysis includes data cleaning, exploration, visualization, and draws meaningful conclusions from the dataset.
 
